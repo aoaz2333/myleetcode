@@ -1,16 +1,17 @@
 package mango.listandarray;
 
 /**
+ * code303
  * 给定一个整数组nums
  * 求出数组从索引 i 到 j (i<=j) 范围内元素的总和，包含i j两点
- * <p>
+ *
  * 前缀和问题，初始化时先计算出前n项和
  * 注意输入的是数组的下标
  */
-public class code303 {
+public class NumArray {
     private final int[] preSum;
 
-    public code303(int[] nums) {
+    public NumArray(int[] nums) {
         preSum = new int[nums.length + 1];
         int rangeSum = 0;
         for (int i = 1; i <= nums.length; i++) {
