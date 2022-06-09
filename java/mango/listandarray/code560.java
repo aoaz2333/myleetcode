@@ -9,8 +9,7 @@ package mango.listandarray;
  * <p>
  * 思路:先算出来所有的前缀和，然后列举所有的子数组的可能，找出等于k的前缀和的个数
  */
-public class SubArraySym {
-
+public class code560 {
     public int subarraySum(int[] nums, int k) {
         //记录前缀和
         int[] preSum = new int[nums.length + 1];

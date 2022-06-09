@@ -8,10 +8,10 @@ package mango.listandarray;
  * 前缀和问题，初始化时先计算出前n项和
  * 注意输入的是数组的下标
  */
-public class NumArray {
+public class code303 {
     private final int[] preSum;
 
-    public NumArray(int[] nums) {
+    public code303(int[] nums) {
         preSum = new int[nums.length + 1];
         int rangeSum = 0;
         for (int i = 1; i <= nums.length; i++) {

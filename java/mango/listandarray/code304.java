@@ -11,10 +11,10 @@ package mango.listandarray;
  *
  * 要点: 理清思路，在生成前缀和数组的时候，和生成前缀和结果的时候，使用的是同一个算法，左边 + 上边 - 左上
  */
-public class NumMatrix {
+public class code304 {
     private final int[][] preSum;
 
-    public NumMatrix(int[][] matrix) {
+    public code304(int[][] matrix) {
         int colCount = matrix.length;
         int rowCount = matrix[0].length;
 
