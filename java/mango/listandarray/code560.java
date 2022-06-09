@@ -39,8 +39,8 @@ public class code560 {
             preSum[i] = preSum[i - 1] + nums[i - 1];
         }
 
-        HashMap<Integer, Integer>
+//        HashMap<Integer, Integer>
 
-
+        return 0;
     }
 }
