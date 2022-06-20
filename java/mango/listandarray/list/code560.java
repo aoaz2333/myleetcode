@@ -1,4 +1,4 @@
-package mango.listandarray;
+package mango.listandarray.list;
 
 import java.util.HashMap;
 import java.util.Map;

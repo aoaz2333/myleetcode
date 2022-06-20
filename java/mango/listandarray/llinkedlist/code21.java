@@ -1,4 +1,4 @@
-package mango.listandarray;
+package mango.listandarray.llinkedlist;
 
 /**
  * 合并两个升序链表

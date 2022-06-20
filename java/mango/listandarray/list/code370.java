@@ -1,4 +1,4 @@
-package mango.listandarray;
+package mango.listandarray.list;
 
 /**
  * 370 区间加法

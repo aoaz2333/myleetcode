@@ -1,4 +1,4 @@
-package mango.listandarray;
+package mango.listandarray.list;
 
 /**
  * 有 n 个航班，分别从 1 到 n 进行编号

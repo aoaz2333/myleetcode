@@ -1,4 +1,4 @@
-package mango.listandarray;
+package mango.listandarray.llinkedlist;
 
 import java.util.PriorityQueue;
 

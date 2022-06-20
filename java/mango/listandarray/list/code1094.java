@@ -1,4 +1,4 @@
-package mango.listandarray;
+package mango.listandarray.list;
 
 /**
  * 车上最初有 capacity 个空座位，车只能向一个方向行驶（不能掉头或改变方向）
